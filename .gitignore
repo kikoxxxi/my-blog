@@ -20,4 +20,3 @@ ENV/
 *.json
 
 *.rdb
-*.sqlite3
