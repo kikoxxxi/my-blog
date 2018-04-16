@@ -1,0 +1,23 @@
+# Python:
+*.py[cod]
+*.so
+*.egg
+*.egg-info
+dist
+build
+__pycache__/
+*$py.class
+
+# dotenv
+.env
+
+# virtualenv
+venv/
+ENV/
+.venv/
+
+# json
+*.json
+
+*.rdb
+*.sqlite3
